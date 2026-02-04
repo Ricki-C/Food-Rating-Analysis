@@ -129,7 +129,7 @@ Given the datasets, I am investigating <strong>how the complexity of recipes and
   <li>Convert <code>submitted</code> and <code>date</code> to datetime
     <ul>
       <li>
-        I convert those two columns into datatime, so I can use them to analysis the trends.
+           This transformation enables time-based analysis using the <code>submitted</code> and <code>date</code> column.
       </li>
     </ul>
   </li>

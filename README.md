@@ -92,13 +92,13 @@ Given the datasets, I am investigating <strong>how the complexity of recipes and
     </ul>
   </li>
 
-    <li>Drop <code>id</code> column
+  <li>Drop <code>id</code> column
       <ul>
         <li>
           This step drop the redundant column, creating a cleaner dataframe.
         </li>
       </ul>
-    </li>
+  </li>
 
   <li>Check the missingness and impute appropriate elements
     <ul>

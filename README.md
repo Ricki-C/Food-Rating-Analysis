@@ -71,6 +71,8 @@ Given the datasets, I am investigating <strong>how the complexity of recipes and
 
 <h1>Data Cleaning and Exploratory Data Analysis</h1>
 
+<h2>Data Cleaning</h2>
+
 <p>To improve the efficiency and clarity of the analysis, I performed the following data cleaning steps.</p>
 
 <!-- I just want to try to use a comment. Igmore it lol -->
@@ -158,4 +160,25 @@ The cleaned dataframe has 83781 rows and 14 columns. I show the 5 unique recipes
 
 
 
-<P>yeah</P>
+<h2>Univariate Analysis</h2>
+<h2>Bivariate Analysis</h2>
+<h2>Interesting Aggregates</h2>
+
+
+
+
+<!-- Structure -->
+<h1>Assessment of Missingness</h1>
+<h2>NMAR Analysis</h2>
+<h2>Missingness Dependency</h2>
+
+<h1>Hypothesis Testing</h1>
+<h1>Framing a Prediction Problem</h1>
+<h2>Problem Identification</h2>
+
+<h1>Baseline Model</h1>
+
+<h1>Final Model</h1>
+
+<h1>Fairness Analysis</h1>
+

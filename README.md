@@ -136,9 +136,9 @@ Given the datasets, I am investigating <strong>how the complexity of recipes and
 
 <h2>Data Cleaning Result Dataframe</h2>
 <iframe
-  src="data_and_analysis\assets\cleaned_df_show.html"
+  src="data_and_analysis\assets\cleaned_df_show_first5.html"
   width="100%"
-  height="360"
+  height="380"
   frameborder="0">
 </iframe>
 

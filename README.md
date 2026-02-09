@@ -161,6 +161,56 @@ The cleaned dataframe has 83781 rows and 14 columns. I show the 5 unique recipes
 
 
 <h2>Univariate Analysis</h2>
+
+<p>For this analysis, we examined the distribution of average recipe ratings. As the plot above shows, the distribution is heavily skewed toward higher ratings, indicating that most recipes on the platform receive relatively high scores. The frequency of recipes increases as the average rating approaches the upper end of the scale, with the majority clustered between 4 and 5.</p>
+
+<iframe
+  src="assets\average_rating_histogram.html"
+  width="800"
+  height="600"
+  frameborder="0"
+></iframe>
+
+<p> For this analysis, we examined the distribution of cooking time across recipes. As the box plot above shows, cooking time is right-skewed, indicating that most recipes require a relatively short amount of time to prepare. The median cooking time is around 35 minutes, with the majority of recipes falling between approximately 20 and 60 minutes. However, the presence of extreme values suggests that a small number of recipes involve substantially longer preparation times. </p>
+
+<iframe
+  src="assets\cooking_mins_histogram.html"
+  width="800"
+  height="600"
+  frameborder="0"
+></iframe>
+
+<p>For this analysis, we examined the distribution of calorie content across recipes. As the histogram above shows, the distribution is strongly right-skewed, indicating that most recipes contain relatively low to moderate calories. The highest concentration of recipes falls below approximately 500 kcal, while the frequency steadily decreases as calorie content increases. This suggests that although high-calorie recipes exist, they represent a small proportion of the dataset.</p>
+
+<iframe
+  src="assets\assets/caloreis_histogram.html"
+  width="800"
+  height="600"
+  frameborder="0"
+></iframe>
+
+
+<p>For this analysis, we examined the distribution of the number of steps required per recipe. As the histogram shows, the distribution is right-skewed, with most recipes requiring a relatively small number of steps. The highest concentration of recipes falls between approximately 5 and 10 steps, while the frequency decreases as the number of steps increases. This suggests that the majority of recipes are relatively simple in terms of procedural complexity, with only a small proportion involving a large number of steps.</p>
+
+<iframe
+  src="assets\assets/fig_num_steps.html"
+  width="800"
+  height="600"
+  frameborder="0"
+></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h2>Bivariate Analysis</h2>
 <h2>Interesting Aggregates</h2>
 

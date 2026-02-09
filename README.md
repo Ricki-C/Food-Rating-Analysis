@@ -183,7 +183,7 @@ The cleaned dataframe has 83781 rows and 14 columns. I show the 5 unique recipes
 <p>For this analysis, we examined the distribution of calorie content across recipes. As the histogram above shows, the distribution is strongly right-skewed, indicating that most recipes contain relatively low to moderate calories. The highest concentration of recipes falls below approximately 500 kcal, while the frequency steadily decreases as calorie content increases. This suggests that although high-calorie recipes exist, they represent a small proportion of the dataset.</p>
 
 <iframe
-  src="data_and_analysis\assets\assets/caloreis_histogram.html"
+  src="data_and_analysis\assets\caloreis_histogram.html"
   width="800"
   height="600"
   frameborder="0"
@@ -193,7 +193,7 @@ The cleaned dataframe has 83781 rows and 14 columns. I show the 5 unique recipes
 <p>For this analysis, we examined the distribution of the number of steps required per recipe. As the histogram shows, the distribution is right-skewed, with most recipes requiring a relatively small number of steps. The highest concentration of recipes falls between approximately 5 and 10 steps, while the frequency decreases as the number of steps increases. This suggests that the majority of recipes are relatively simple in terms of procedural complexity, with only a small proportion involving a large number of steps.</p>
 
 <iframe
-  src="data_and_analysis\assets\assets/fig_num_steps.html"
+  src="data_and_analysis\assets\fig_num_steps.html"
   width="800"
   height="600"
   frameborder="0"
